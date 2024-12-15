@@ -1,3 +1,4 @@
+# 这是转载于https://github.com/waylau/git-for-win?tab=readme-ov-file的文件
 # Git for Windows 国内下载站
 
 Git for Windows.   国内直接从官网（`http://git-scm.com/download/win`）下载比较困难，需要翻墙。这里提供一个国内的下载站，方便网友下载
